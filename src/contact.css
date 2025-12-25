@@ -1,0 +1,19 @@
+.contact-actions {
+  margin-top: 30px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.contact-actions a {
+  padding: 12px 20px;
+  background: #3182ce;
+  color: white;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.contact-actions a:hover {
+  background: #2b6cb0;
+}

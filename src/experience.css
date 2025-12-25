@@ -1,0 +1,31 @@
+.exp-card {
+  background: white;
+  border-radius: 16px;
+  padding: 28px;
+  margin-top: 30px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.06);
+}
+
+.exp-card h3 {
+  margin-bottom: 6px;
+}
+
+.role {
+  color: #2b6cb0;
+  font-size: 0.9rem;
+}
+
+.exp-card ul {
+  margin-top: 12px;
+  padding-left: 20px;
+}
+
+.exp-card li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.exp-card.highlight {
+  border-left: 6px solid #3182ce;
+  background: #f0f8ff;
+}
